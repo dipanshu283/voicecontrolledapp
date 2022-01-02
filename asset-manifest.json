@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/voicecontrolledapp/static/css/main.8a4aa406.css",
-    "main.js": "/voicecontrolledapp/static/js/main.45db42a2.js",
+    "main.css": "/voicecontrolledapp/static/css/main.2a4b4c39.css",
+    "main.js": "/voicecontrolledapp/static/js/main.96ccf08d.js",
     "static/js/787.587d8506.chunk.js": "/voicecontrolledapp/static/js/787.587d8506.chunk.js",
+    "static/media/imgcovid.png": "/voicecontrolledapp/static/media/imgcovid.0d50f20c84afed7fd1bf.png",
     "static/media/newimg.png": "/voicecontrolledapp/static/media/newimg.e2f3ab41e621d140de5d.png",
     "static/media/talk.png": "/voicecontrolledapp/static/media/talk.6c8a8d4546a50eb53196.png",
     "static/media/weatherimgg-removebg-preview.png": "/voicecontrolledapp/static/media/weatherimgg-removebg-preview.ad2508e8e6e08b084b8c.png",
     "index.html": "/voicecontrolledapp/index.html",
-    "main.8a4aa406.css.map": "/voicecontrolledapp/static/css/main.8a4aa406.css.map",
-    "main.45db42a2.js.map": "/voicecontrolledapp/static/js/main.45db42a2.js.map",
+    "main.2a4b4c39.css.map": "/voicecontrolledapp/static/css/main.2a4b4c39.css.map",
+    "main.96ccf08d.js.map": "/voicecontrolledapp/static/js/main.96ccf08d.js.map",
     "787.587d8506.chunk.js.map": "/voicecontrolledapp/static/js/787.587d8506.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a4aa406.css",
-    "static/js/main.45db42a2.js"
+    "static/css/main.2a4b4c39.css",
+    "static/js/main.96ccf08d.js"
   ]
 }
