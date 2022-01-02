@@ -1,5 +1,6 @@
 {
   "name": "voicecontrolledapp",
+  "homepage": "https://dipanshu283.github.io/voicecontrolledapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +15,8 @@
     "words-to-numbers": "^1.5.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

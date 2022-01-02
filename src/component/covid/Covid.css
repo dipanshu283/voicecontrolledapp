@@ -1,0 +1,76 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(224, 239, 252);
+
+}
+.thick-heading{
+    font-weight: 500;
+
+}
+.IN{
+    color: orangered;
+}
+.D{
+    color: white;
+}
+.IA{
+    color: green;
+}
+.headingg{
+    font-weight: 300;
+    margin: 30px;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.table tr td:hover:nth-child(4){
+    background-color: red;
+    color: white;
+}
+.table tr td:hover:nth-child(3){
+    background-color: green;
+    color: white;
+}
+.tablee{
+    margin-bottom: 50px;
+    padding: 30px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.table-body{
+    height: 90vh;
+    overflow: scroll;
+}
+th{
+    padding: 30px;
+}
+td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.covid_wrapper{
+    background-image: linear-gradient(180deg,#686600 , #918705 );
+    width:100%;
+    min-height:300px;
+    align-self: center;
+    position: relative;
+    background-position: center;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    justify-content: space-between;
+    }
