@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/voicecontrolledapp/static/css/main.25cb3afe.css",
-    "main.js": "/voicecontrolledapp/static/js/main.d8e56699.js",
+    "main.js": "/voicecontrolledapp/static/js/main.b14888fc.js",
     "static/js/787.587d8506.chunk.js": "/voicecontrolledapp/static/js/787.587d8506.chunk.js",
     "static/media/covidimg.png": "/voicecontrolledapp/static/media/covidimg.303b3a2fb95acd770d41.png",
     "static/media/newimg.png": "/voicecontrolledapp/static/media/newimg.e2f3ab41e621d140de5d.png",
@@ -9,11 +9,11 @@
     "static/media/weatherimgg-removebg-preview.png": "/voicecontrolledapp/static/media/weatherimgg-removebg-preview.ad2508e8e6e08b084b8c.png",
     "index.html": "/voicecontrolledapp/index.html",
     "main.25cb3afe.css.map": "/voicecontrolledapp/static/css/main.25cb3afe.css.map",
-    "main.d8e56699.js.map": "/voicecontrolledapp/static/js/main.d8e56699.js.map",
+    "main.b14888fc.js.map": "/voicecontrolledapp/static/js/main.b14888fc.js.map",
     "787.587d8506.chunk.js.map": "/voicecontrolledapp/static/js/787.587d8506.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25cb3afe.css",
-    "static/js/main.d8e56699.js"
+    "static/js/main.b14888fc.js"
   ]
 }
