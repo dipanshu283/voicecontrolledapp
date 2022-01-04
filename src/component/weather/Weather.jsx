@@ -38,7 +38,7 @@ const Weather = ({ info }) => {
     return(
       <div className="weather_wrapper">
       <div className="weather_info">
-        <h1 className="heading">"hey siri , how is the weather today in [CITY]"</h1>
+        <h1 className="heading">"hey Alan , how is the weather today in [CITY]"</h1>
       </div>
       <img className="imgg" src={imglogo2} alt="" />
     </div>

@@ -11,7 +11,7 @@ function Talk(props) {
       <div className="info">
         <h1>Getting bored.</h1>
         <h1>Come On let's Talk....</h1>
-        <h2>" hey siri , Talk to me "</h2>
+        <h2>" hey Alan , Talk to me "</h2>
       </div>
     </div>
   );
