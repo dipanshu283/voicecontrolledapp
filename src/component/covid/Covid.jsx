@@ -22,7 +22,7 @@ else{
     <>
       <div className="covid_wrapper">
           <div className="infoo">
-            <h1 className="bold">"here is a covid deshboard"</h1>
+            <h1 className="bold">"here is a covid dashboard"</h1>
           </div>
           <img className="imgggg" src={newsimg} alt="" />
 
