@@ -2,7 +2,7 @@ import React from "react";
 import "./Covid.css";
 
 function CovidState({hdata}) {
-  const newsimg = require("./imgcovid.png");
+  const newsimg = require("./covidimg.png");
   console.log("hl",hdata);
   if (!hdata.length){
     return (
